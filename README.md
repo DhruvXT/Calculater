@@ -1,7 +1,4 @@
-# Calculater
-An interactive calculator web application developed using pure HTML, CSS, and JavaScript, providing a smooth user experience with responsive design and real-time calculations.
-
-
+#🧮
 
 # Calculator App
 
@@ -19,3 +16,8 @@ A modern calculator built using HTML, CSS, and JavaScript. This project provides
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
+
+
+
+## Screenshot
+![Dashboard Screenshot](https://github.com/DhruvXT/Calculater/blob/main/Screenshot%202026-10-16%20084840.png)
